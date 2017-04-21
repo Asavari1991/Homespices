@@ -2347,7 +2347,7 @@ span.color-red {
   background-color: #FFF;
   border-bottom: 4px solid #4f8db3;
   z-index: 4;
-  white-space:pre-line;
+  white-space:pre-wrap;
 }
 .mainmenu {
   width: 100%;
