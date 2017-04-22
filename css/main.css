@@ -490,7 +490,6 @@ a:hover {
 }
 .featured-news .intro a,
 .latest-news .intro a {
-  white-space: nowrap;
 }
 .featured-news .date,
 .latest-news .date {
